@@ -1,18 +1,24 @@
-How toTo run - Open index.html and allow access as it is built for a webserver.
-	Instructions - To use, press the arrows and +/- buttons on the screen to adjust the desired amounts to find the cost of your prints.
+How toTo install -
+	Add this code to site.
+	<embed src="https://cdn.rawgit.com/CleveInstArt/PrintCostCalculatorRepository/master/HTML5/Calculator.html" width="450" height="450"></embed></
+
+Click on the Arrows to adjust values.
+
 	Hotkeys -
-		Shift: Decreases matearial price
-		Space: Increases matearial price
-		left:  Incresses width
-		right: Decreases width
-		up: Increases height
-		down: Decreases height
-		Plus "+": Increases Copies/Quantity of prints
-		minus "-": Decreases Copies/Quantity of prints
-		"Q" : Resets Calculator
-		"*" : Increases 'Incrament' (check NumLock)
-		"/" : Decreases 'Incrament' (check NumLock)
-		"." : Increases matearial price + $0.50 (check NumLock)
+	
+	up: Increases height
+	down: Decreases height
+	right: Increases width
+	left: Decreases width
+	Shift: Decreases material price
+	Space: Increases material price
+	Plus "+": Increases Copies/Quantity of prints
+	minus "-": Decreases Copies/Quantity of prints
+	"*" : Increases 'Increment' (check NumLock)
+	"/" : Decreases 'Incrament' (check NumLock)
+	"."  : Increases material price + $0.50 (check NumLock)
+	
+	"Q" : Resets Calculator"
 
 Credits - Programmed and Designed by Alexander Sierputowski
 Made in Gamemaker
